@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_66_SergSmilya/static/css/main.997828b7.css",
-    "main.js": "/react_node_fs_66_SergSmilya/static/js/main.d013b797.js",
+    "main.js": "/react_node_fs_66_SergSmilya/static/js/main.6be0e257.js",
     "static/css/154.5b770d5c.chunk.css": "/react_node_fs_66_SergSmilya/static/css/154.5b770d5c.chunk.css",
     "static/js/154.8c8ff609.chunk.js": "/react_node_fs_66_SergSmilya/static/js/154.8c8ff609.chunk.js",
     "static/css/632.bd79c86b.chunk.css": "/react_node_fs_66_SergSmilya/static/css/632.bd79c86b.chunk.css",
@@ -109,7 +109,7 @@
     "static/media/arrow-right.svg": "/react_node_fs_66_SergSmilya/static/media/arrow-right.adc1d6cdd20420ad9d9560d33060e6e5.svg",
     "static/media/Icon.svg": "/react_node_fs_66_SergSmilya/static/media/Icon.0a8a3971e234ad8c5e19a6955068f22a.svg",
     "main.997828b7.css.map": "/react_node_fs_66_SergSmilya/static/css/main.997828b7.css.map",
-    "main.d013b797.js.map": "/react_node_fs_66_SergSmilya/static/js/main.d013b797.js.map",
+    "main.6be0e257.js.map": "/react_node_fs_66_SergSmilya/static/js/main.6be0e257.js.map",
     "154.5b770d5c.chunk.css.map": "/react_node_fs_66_SergSmilya/static/css/154.5b770d5c.chunk.css.map",
     "154.8c8ff609.chunk.js.map": "/react_node_fs_66_SergSmilya/static/js/154.8c8ff609.chunk.js.map",
     "632.bd79c86b.chunk.css.map": "/react_node_fs_66_SergSmilya/static/css/632.bd79c86b.chunk.css.map",
@@ -141,6 +141,6 @@
   },
   "entrypoints": [
     "static/css/main.997828b7.css",
-    "static/js/main.d013b797.js"
+    "static/js/main.6be0e257.js"
   ]
 }
